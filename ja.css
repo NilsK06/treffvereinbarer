@@ -18,6 +18,7 @@ button{
     text-align: center;
     border-color: deeppink;
     border-radius: 6px;
+    background-color: rgb(238,213,210);
 }
 
 main {
