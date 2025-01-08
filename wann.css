@@ -1,0 +1,40 @@
+html{
+    background-color: mistyrose;
+}
+header{
+    text-align: center;
+    color: deeppink;
+    font-family: serif;
+    font-size: 2em;
+    text-shadow: 4px 2px pink;
+    
+}
+button{
+    color: deeppink;
+    font-family: serif;
+    font-weight: bold;
+    font-size: 1em;
+    display: flex;
+    text-align: center;
+    border-color: deeppink;
+    border-radius: 6px;
+}
+
+main {
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center; 
+}
+form{
+    display: flex;
+    grid-template-columns: repeat(4, 1fr);
+    color: deeppink;
+    font-family: serif;
+    font-weight: bold;
+}
+fieldset{
+    border: none;
+    padding: 10px;
+    margin-bottom: 20px;
+}

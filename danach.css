@@ -1,0 +1,39 @@
+html{
+    background-color: mistyrose;
+}
+header{
+    text-align: center;
+    color: deeppink;
+    font-family: serif;
+    font-size: 1em;
+    text-shadow: 2.5px 2px pink;
+}
+form{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    color: deeppink;
+    font-family: serif;
+    font-weight: bold;
+}
+fieldset{
+    border: none;
+    padding: 10px;
+}
+div{
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    height: 100px;
+}
+button{
+    color: deeppink;
+    font-family: serif;
+    font-weight: bold;
+    font-size: 1em;
+    border-color: deeppink;
+    border-radius: 6px;
+}
+#kino{
+    grid-column: 2;
+    margin-top: 20px;
+}
