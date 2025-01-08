@@ -1,0 +1,38 @@
+html{
+    background-color: mistyrose;
+}
+header{
+    text-align: center;
+    color: deeppink;
+    font-family: serif;
+    font-size: 2em;
+    text-shadow: 4px 2px pink;
+    
+}
+button{
+    color: deeppink;
+    font-family: serif;
+    font-weight: bold;
+    font-size: 1em;
+    border-color: deeppink;
+    border-radius: 6px;
+    margin: 10px;
+}
+#button{
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    height: 100px;
+    margin-bottom: 30px;
+}
+#gif {
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    
+}
+img{
+    border: solid;
+    border-color: deeppink;
+    border-radius: 6px;
+}

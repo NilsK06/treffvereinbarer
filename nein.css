@@ -1,0 +1,28 @@
+html{
+    background-color: mistyrose;
+}
+header{
+    text-align: center;
+    color: deeppink;
+    font-family: serif;
+    font-size: 2em;
+    text-shadow: 4px 2px pink;
+    
+}
+#gif {
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+}
+h3{
+    text-align: center;
+    font-family: serif;
+    font-size: 2em;
+    text-shadow: 4px 2px pink;
+    color: deeppink;
+}
+img{
+    border: solid;
+    border-color: deeppink;
+    border-radius: 6px;
+}
