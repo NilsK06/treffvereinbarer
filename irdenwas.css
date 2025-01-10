@@ -17,6 +17,7 @@ button{
     border-color: deeppink;
     border-radius: 6px;
     margin: 10px;
+    background-color: rgb(238,213,210);
 }
 #button{
     display: flex; 
